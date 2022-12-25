@@ -1,0 +1,3 @@
+[submodule "db-mssql-king"]
+	path = db-mssql-king
+	url = https://github.com/5enthilbaliah/db-mssql-king.git
